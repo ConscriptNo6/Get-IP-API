@@ -1,6 +1,6 @@
 ### 说明
 收集一些免费、国内(不会走代理)用于请求本机IPv4的接口，过滤掉一些会走代理、显示代理服务器IP的API。
-
+收集中...
 
 
 |                                       API                                       | 返回内容                                      | 可用 |
@@ -14,4 +14,4 @@
 |         [百度](https://qifu-api.baidubce.com/ip/local/geo/v1/district)          | IP地址、洲国省市区、运营商、行政区划代码、经纬度等 |  ✔️  |
 |                       [IPIP](https://myip.ipip.net/json)                        | IP地址、国省市、运营商                          |  ✔️  |
 |              [纯真网络](https://www.cz88.net/api/cz88/ip/geo?ip=)               | IP地址、国省市区、运营商、行政区划代码、经纬度等   |  ✔️  |
-| [IP查询](https://2024.ipchaxun.com/) | IP地址、国省市区、运营商、行政区划代码等 |   ✔️  |
+|                       [IP查询](https://2024.ipchaxun.com/)                      | IP地址、国省市区、运营商、行政区划代码等          |   ✔️  |
