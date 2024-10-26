@@ -16,5 +16,7 @@
 |                    [纯真网络](https://www.cz88.net/api/cz88/ip/geo?ip=)                     |   GET    | IP地址、国省市区、运营商、行政区划代码、经纬度等   |   JSON   | ✔️   |
 |                            [IP查询](https://2024.ipchaxun.com/)                             |   GET    | IP地址、国省市区、运营商、行政区划代码等          |   JSON   | ✔️   |
 |            [中国科学技术大学测速网站](https://test.ustc.edu.cn/backend/getIP.php)            |   GET    | IP地址                                         |   JSON   | ✔️   |
-| [在线工具大全](https://openapi.lddgo.net/base/gtool/api/v1/GetIp)<sup>手动复制打开</sup> |   GET    | IP地址                                         |   JSON   | ✔️   |
+| [在线工具大全](https://openapi.lddgo.net/base/gtool/api/v1/GetIp)<sup>手动复制打开</sup>     |   GET    | IP地址                                         |   JSON   | ✔️   |
 |                  [IP数据云](https://app.ipdatacloud.com/v1/ip_self_search)                  |   POST   | IP地址、洲国省市、经纬度                         |   JSON   | ✔️   |
+|               [南京大学测速站](https://test.nju.edu.cn/backend/getIP.php)                    |   GET    | IP地址                                         |   JSON   | ✔️   |
+|                 [东北大学网络测速站](https://speed.neu.edu.cn/getIP.php)                     |   GET    | IP地址                                         |   HTML   | ✔️   |
