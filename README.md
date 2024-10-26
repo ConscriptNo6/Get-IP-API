@@ -15,4 +15,5 @@
 |                       [IPIP](https://myip.ipip.net/json)                        | IP地址、国省市、运营商                      |  JSON   |  ✔️  |
 |              [纯真网络](https://www.cz88.net/api/cz88/ip/geo?ip=)               | IP地址、国省市区、运营商、行政区划代码、经纬度等   |  JSON   |  ✔️  |
 |                       [IP查询](https://2024.ipchaxun.com/)                      | IP地址、国省市区、运营商、行政区划代码等         |  JSON   |  ✔️  |
-|     [中国科学技术大学测速网站](https://test.ustc.edu.cn/backend/getIP.php)      | IP地址                                  |  JSON   |  ✔️  |
+|     [中国科学技术大学测速网站](https://test.ustc.edu.cn/backend/getIP.php)      | IP地址                                  |  JSON    |  ✔️  |
+| [在线工具大全](https://openapi.lddgo.net/base/gtool/api/v1/GetIp)<sup>需要手动复制打开</sup>  |  IP地址                    | JSON     |   ✔️ |
