@@ -20,3 +20,4 @@
 |                  [IP数据云](https://app.ipdatacloud.com/v1/ip_self_search)                  |   POST   | IP地址、洲国省市、经纬度                         |   JSON   | ✔️   |
 |               [南京大学测速站](https://test.nju.edu.cn/backend/getIP.php)                    |   GET    | IP地址                                         |   JSON   | ✔️   |
 |                 [东北大学网络测速站](https://speed.neu.edu.cn/getIP.php)                     |   GET    | IP地址                                         |   HTML   | ❌   |
+|                      [ipify](https://api.ipify.org/?format=json)                           |   GET    | IP地址                                         |   JSON   | ✔️   |
