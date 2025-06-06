@@ -12,6 +12,8 @@
 |                     [又拍云](https://pubstatic.b0.upaiyun.com/?_upnode)                     |   GET    | IP地址、洲国省市、运营商等                       |   JSON   | ✔️   |
 |                             [ITDOG](https://ipv4_ct.itdog.cn/)                              |   GET    | IP地址、国省市、运营商等                         |   JSON   | ✔️   |
 |               [百度](https://qifu-api.baidubce.com/ip/local/geo/v1/district)                |   GET    | IP地址、洲国省市区、运营商、行政区划代码、经纬度等 |   JSON   | ✔️   |
+|        [百度网盘](https://d.pcs.baidu.com/rest/2.0/pcs/file?method=locateupload)            |    GET    | IP地址                                         |   JSON   | ✔️   |
+|               [腾讯视频](https://disp-qryapi.3g.qq.com/v1/dispatch)                         |   GET    | IP地址、国省、运营商                             |   JSON   | ✔️   |   
 |                             [IPIP](https://myip.ipip.net/json)                              |   GET    | IP地址、国省市、运营商                           |   JSON   | ✔️   |
 |                    [纯真网络](https://www.cz88.net/api/cz88/ip/geo?ip=)                     |   GET    | IP地址、国省市区、运营商、行政区划代码、经纬度等   |   JSON   | ✔️   |
 |                            [IP查询](https://2025.ipchaxun.com/)                             |   GET    | IP地址、国省市区、运营商、行政区划代码等          |   JSON   | ✔️   |
@@ -21,3 +23,6 @@
 |               [南京大学测速站](https://test.nju.edu.cn/backend/getIP.php)                    |   GET    | IP地址                                         |   JSON   | ✔️   |
 |                 [东北大学网络测速站](https://speed.neu.edu.cn/getIP.php)                     |   GET    | IP地址                                         |   HTML   | ❌   |
 |                      [ipify](https://api.ipify.org/?format=json)                           |   GET    | IP地址                                         |   JSON   | ✔️   |
+|                       [埃文科技](https://www.ipplus360.com/getIP)                           |   GET    | IP地址                                         |   JSON   | ✔️   |
+|        [IPv4/IPv6查询](https://ipv4.ip.mir6.com/api/api_json.php?ip=myip&token=mir6.com)    |   GET   | IP地址、国省市区、运营商、经纬度等                 |   JSON   | ✔️   |
+|                 [12306](https://exservice.12306.cn/excater/bonree/grip)                    |   GET    | IP地址                                         |   JSON   | ✔️   |
