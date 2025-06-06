@@ -3,7 +3,7 @@
 
 #### 收集中...
 
-|                                             站点/API                                             | 请求方法 |                    返回内容                    | 返回格式 | 可用 |
+|                                             站点/API                                        | 请求类型 |                    返回内容                    | 返回格式 | 可用 |
 | :-----------------------------------------------------------------------------------------: | :------: | ---------------------------------------------- | :------: | ---- |
 |                         [IPcn](https://ip.cn/api/index?ip=&type=0)                          |   GET    | IP地址、国省市、运营商                           |   JSON   | ❌  |
 |             [哔哩哔哩1](https://api.live.bilibili.com/client/v1/Ip/getInfoNew)              |   GET    | IP地址、国省市、运营商、经纬度                    |   JSON   | ✔️   |
@@ -26,3 +26,4 @@
 |                       [埃文科技](https://www.ipplus360.com/getIP)                           |   GET    | IP地址                                         |   JSON   | ✔️   |
 |        [IPv4/IPv6查询](https://ipv4.ip.mir6.com/api/api_json.php?ip=myip&token=mir6.com)    |   GET   | IP地址、国省市区、运营商、经纬度等                 |   JSON   | ✔️   |
 |                 [12306](https://exservice.12306.cn/excater/bonree/grip)                    |   GET    | IP地址                                         |   JSON   | ✔️   |
+|                      [携程](https://cdid.c-ctrip.com/model-poc2/h)                          |   GET    | IP地址                                         |   TEXT   | ✔️   |
